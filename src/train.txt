@@ -1,4 +1,4 @@
-Restaurant Type,Price,Neighborhood,Restriction,OK
+Restaurant,Type,Price,Neighborhood,Restriction,OK
 R1,Fast Food,$,Oakland,Vegetarian,0
 R2,Ethnic,$$,Squirrel Hill,Gluten Free,0
 R3,Casual Dining,$$,Squirrel Hill,None,0
