@@ -1,0 +1,12 @@
+Restaurant Type,Price,Neighborhood,Restriction,OK
+R1,Fast Food,$,Oakland,Vegetarian,0
+R2,Ethnic,$$,Squirrel Hill,Gluten Free,0
+R3,Casual Dining,$$,Squirrel Hill,None,0
+R4,Casual Dining,$$$,Shadyside,Vegetarian,0
+R5,Casual Dining,$,Oakland,Vegetarian,1
+R6,Fast Food,$$,Squirrel Hill,None,1
+R7,Ethnic,$,Squirrel Hill,None,1
+R8,Casual Dining,$,Shadyside,Gluten Free,0
+R9,Fast Food,$$$,Oakland,None,0
+R10,Ethnic,$$,Shadyside,Vegetarian,1
+R11,Casual Dining,$$,Shadyside,Gluten Free,1
